@@ -16,8 +16,6 @@ function App() {
 			<div className="max-w-screen-md mx-auto pt-20">
 				{/*Make sure that only one routes happen, prevent 404 error route*/}
 				<Switch>
-					{" "}
-					/
 					<Route exact path="/" component={Home} />
 					<Route exact path="/about" component={About} />
 					<Route exact path="/articles-list" component={ArticlesList} />
