@@ -19,7 +19,6 @@ $ git clone https://github.com/limivann/blog-mern.git
 
 ```terminal
 LICENSE
-package.json
 server/
    package.json
 my-blog/
